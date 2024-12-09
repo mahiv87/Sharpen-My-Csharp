@@ -63,8 +63,23 @@
 
           Console.WriteLine($"{numX} {opSelection} {numY} = {answer}");
 
-          shouldContinue = false;
-        }
+          Console.WriteLine($"Type \"y\" to continue calculating with {answer}, or type \"n\" to start a new calculation. Type \"x\" to exit");
 
+          string proceed = Console.ReadLine();
+
+          if (proceed.ToLower().Equals("y"))
+          {
+            numX = answer;
+          }
+          else if (proceed.ToLower().Equals("n"))
+          {
+            shouldContinue = false;
+            Calculator(operations);
+          }
+          else
+          {
+          shouldContinue = false;
+          }
+        }
       }
 }
