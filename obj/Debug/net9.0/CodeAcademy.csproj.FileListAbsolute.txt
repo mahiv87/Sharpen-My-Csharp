@@ -1,0 +1,14 @@
+C:\Users\voxtr\Documents\Code\CodeAcademy\bin\Debug\net9.0\CodeAcademy.exe
+C:\Users\voxtr\Documents\Code\CodeAcademy\bin\Debug\net9.0\CodeAcademy.deps.json
+C:\Users\voxtr\Documents\Code\CodeAcademy\bin\Debug\net9.0\CodeAcademy.runtimeconfig.json
+C:\Users\voxtr\Documents\Code\CodeAcademy\bin\Debug\net9.0\CodeAcademy.dll
+C:\Users\voxtr\Documents\Code\CodeAcademy\bin\Debug\net9.0\CodeAcademy.pdb
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.AssemblyInfoInputs.cache
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.AssemblyInfo.cs
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.dll
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\refint\CodeAcademy.dll
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.pdb
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.genruntimeconfig.cache
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\ref\CodeAcademy.dll
