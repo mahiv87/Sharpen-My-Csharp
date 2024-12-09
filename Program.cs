@@ -1,45 +1,45 @@
 ﻿class Program
 {
-
       // Addition
-      static int add(int x, int y)
+      static int Add(int x, int y)
       {
         return x + y;
       }
 
       // Subtraction
-      static int subtract(int x, int y)
+      static int Subtract(int x, int y)
       {
         return x - y;
       }
 
       // Multiplication
-      static int multiply(int x, int y)
+      static int Multiply(int x, int y)
       {
         return x * y;
       }
 
       // Division
-      static int divide(int x, int y)
+      static int Divide(int x, int y)
       {
         return x / y;
       }
+
   static void Main(string[] args)
     {
       Console.WriteLine("Let's calculate!");
 
       var operations = new Dictionary<string, Func<int, int, int>>()
       {
-        {"+", add},
-        {"-", subtract},
-        {"*", multiply},
-        {"/", divide},
+        {"+", Add},
+        {"-", Subtract},
+        {"*", Multiply},
+        {"/", Divide},
       };
 
-      calculator(operations);
+      Calculator(operations);
     }
 
-    static void calculator(Dictionary<string, Func<int, int, int>>? operations)
+    static void Calculator(Dictionary<string, Func<int, int, int>>? operations)
       {
         Console.WriteLine("What is the first number?");
         int numX = Convert.ToInt32(Console.ReadLine());

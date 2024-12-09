@@ -12,3 +12,4 @@ C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\refint\CodeAcademy.dl
 C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.pdb
 C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.genruntimeconfig.cache
 C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\ref\CodeAcademy.dll
+C:\Users\voxtr\Documents\Code\CodeAcademy\obj\Debug\net9.0\CodeAcademy.sourcelink.json
