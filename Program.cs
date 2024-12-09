@@ -1,28 +1,16 @@
 ﻿class Program
 {
       // Addition
-      static int Add(int x, int y)
-      {
-        return x + y;
-      }
+      static int Add(int x, int y) => x + y;
 
       // Subtraction
-      static int Subtract(int x, int y)
-      {
-        return x - y;
-      }
-
+      static int Subtract(int x, int y) => x - y;
+      
       // Multiplication
-      static int Multiply(int x, int y)
-      {
-        return x * y;
-      }
+      static int Multiply(int x, int y) => x * y;
 
       // Division
-      static int Divide(int x, int y)
-      {
-        return x / y;
-      }
+      static int Divide(int x, int y) => x / y;
 
   static void Main(string[] args)
     {
